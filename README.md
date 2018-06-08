@@ -27,3 +27,14 @@ At any point you do not know what to do, do not hesitate to ask your pair.
 ### Go to Github issues and follow the instuctions
 
 The first 10 minutes the instructor will be the Navigator  
+
+### For each instruction write the command you used in your README
+For example:  
+### Clone the repo locally  
+In your terminal type: (Don't type the $ sign. This just means do the following in your terminal)  
+$ `git clone git@github.com:ucla-soc-2018/challenge_1.git`
+
+---
+
+### Change directories into challenge_1
+$ `cd challenge_1`
