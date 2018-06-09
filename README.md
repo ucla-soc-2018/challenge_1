@@ -23,16 +23,16 @@ At any point you do not know what to do, do not hesitate to ask your pair.
 
 ---
 
-### Clone the repo locally
-### Go to Github issues and follow the instuctions
-
 The first 10 minutes the instructor will be the Navigator  
 
 ### For each instruction write the command you used in your README
 For example:  
-### Clone the repo locally  
-In your terminal type: (Don't type the $ sign. This just means do the following in your terminal)  
-$ `git clone git@github.com:ucla-soc-2018/challenge_1.git`
+
+### Create a new repo in your GitHub challenge_1_your-name
+
+### Create a directory called challenge_1_your-name
+### Create a local git repo in your directory
+### Go to Github issues and follow the instuctions
 
 ---
 
